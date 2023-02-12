@@ -1,0 +1,13 @@
+body {
+    background-color: #FFE5B4;
+    font-family: 'Playfair Display', serif;
+}
+
+.bg-black {
+    background: #8d4900;
+}
+
+.card-project:hover {
+    border: 1px solid #000;
+    cursor: pointer;
+}
